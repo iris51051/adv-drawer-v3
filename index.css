@@ -1,0 +1,19 @@
+/* Drawer 스타일 */
+.ant-drawer-content-wrapper {
+  box-shadow: none !important;
+  margin-top: 88px;
+  height: 300px;
+  /* 경계선 구분을 위한 임시 테두리*/
+  border: 1px solid;
+}
+.ant-drawer-header,
+.ant-drawer-body,
+.ant-drawer-footer {
+  background: #f5f5f5;
+}
+.FilterAdd {
+  background: #fff;
+}
+.DrawerContent {
+  background: #fff;
+}
